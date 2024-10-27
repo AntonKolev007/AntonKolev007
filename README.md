@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AntonKolev007
-- 👀 I’m interested in Python
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Python project for begginers
+- 👀 I’m gratuated Java Developer
+- 🌱 I’m currently learning .NET, Python and good developping practices
+- 💞️ I’m looking to collaborate on any projects
 - 📫 How to reach me via GitHUB or email
 
 <!---
